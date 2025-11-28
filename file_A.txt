@@ -1,3 +1,4 @@
 Added feature A
 Added feature A
 Added feature A
+Fix bug A
